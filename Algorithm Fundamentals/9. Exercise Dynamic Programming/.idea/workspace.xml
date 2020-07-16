@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28e96011-8adc-4039-8f55-2aabf6e31a19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eRgzwBQGg219LVlQqmh6NXJAdD" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="Application.ConnectingCables">
+    <configuration name="ConnectingCables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task7ConnectingCables.ConnectingCables" />
+      <module name="9. Exercise Dynamic Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task7ConnectingCables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumWithLimitedAmountOfCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task5SumWithLimitedAmountOfCoins.SumWithLimitedAmountOfCoins" />
+      <module name="9. Exercise Dynamic Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5SumWithLimitedAmountOfCoins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumWithUnlimitedAmountOfCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4SumWithUnlimitedAmountOfCoins.SumWithUnlimitedAmountOfCoins" />
+      <module name="9. Exercise Dynamic Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task4SumWithUnlimitedAmountOfCoins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task6WordDifferences.WordDifferences" />
+      <module name="9. Exercise Dynamic Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task6WordDifferences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task7ConnectingCables.cc" />
+      <module name="9. Exercise Dynamic Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task7ConnectingCables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectingCables" />
+        <item itemvalue="Application.cc" />
+        <item itemvalue="Application.WordDifferences" />
+        <item itemvalue="Application.SumWithLimitedAmountOfCoins" />
+        <item itemvalue="Application.SumWithUnlimitedAmountOfCoins" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28e96011-8adc-4039-8f55-2aabf6e31a19" name="Default Changelist" comment="" />
+      <created>1594290091563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594290091563</updated>
+      <workItem from="1594290098338" duration="55176000" />
+      <workItem from="1594530801553" duration="4246000" />
+      <workItem from="1594541982567" duration="2412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1225" height="329" key="GridCell.Tab.0.bottom" timestamp="1594546787477">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1225" height="329" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1594546787477" />
+    <state width="1225" height="329" key="GridCell.Tab.0.center" timestamp="1594546787477">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1225" height="329" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1594546787477" />
+    <state width="1225" height="329" key="GridCell.Tab.0.left" timestamp="1594546787477">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1225" height="329" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1594546787477" />
+    <state width="1225" height="329" key="GridCell.Tab.0.right" timestamp="1594546787477">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1225" height="329" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1594546787477" />
+    <state width="1225" height="329" key="GridCell.Tab.1.bottom" timestamp="1594546787478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1225" height="329" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1594546787478" />
+    <state width="1225" height="329" key="GridCell.Tab.1.center" timestamp="1594546787478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1225" height="329" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1594546787478" />
+    <state width="1225" height="329" key="GridCell.Tab.1.left" timestamp="1594546787477">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1225" height="329" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1594546787477" />
+    <state width="1225" height="329" key="GridCell.Tab.1.right" timestamp="1594546787478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1225" height="329" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1594546787478" />
+    <state x="367" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1594530878792">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="367" y="202" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1594530878792" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task2LongestZigZagSequence/LongestZigZagSequence.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task2LongestZigZagSequence/LengthOfLongestZigZagSequence.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task2LongestZigZagSequence/LengthOfLongestZigZagSequence.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task2LongestZigZagSequence/lzzs.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task2LongestZigZagSequence/lzzs.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task2LongestZigZagSequence/LongestZigZagSequence.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task2LongestZigZagSequence/LongestZigZagSequence.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task2LongestZigZagSequence/LongestZigZagSequence.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task4SumWithUnlimitedAmountOfCoins/SumWithUnlimitedAmountOfCoins.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task5SumWithLimitedAmountOfCoins/SumWithLimitedAmountOfCoins.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task6WordDifferences/WordDifferences.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task7ConnectingCables/ConnectingCables.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task7ConnectingCables/cc.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task7ConnectingCables/cc.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task7ConnectingCables/cc.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task7ConnectingCables/ConnectingCables.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
