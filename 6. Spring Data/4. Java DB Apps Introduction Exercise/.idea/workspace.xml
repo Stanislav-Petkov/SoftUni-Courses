@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="183a9488-5866-4eef-b30c-8cd76b8d8019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="minions_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="minions_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="minions: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cXerP6Bi6ttSGcu0VoPxKdWREw" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.20.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
+  </component>
+  <component name="RunManager" selected="Application.IncreaseMinionsAge">
+    <configuration name="ChangeTownNamesCasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="changeTownNamesCasingTask5.ChangeTownNamesCasing" />
+      <module name="4. Java DB Apps Introduction Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="changeTownNamesCasingTask5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncreaseMinionsAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="increaseMinionsAgeTask8.IncreaseMinionsAge" />
+      <module name="4. Java DB Apps Introduction Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="increaseMinionsAgeTask8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="4. Java DB Apps Introduction Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintAllMinionNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printAllMinionNamesTask7.PrintAllMinionNames" />
+      <module name="4. Java DB Apps Introduction Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="printAllMinionNamesTask7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveVillain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removeVillainTask6.RemoveVillain" />
+      <module name="4. Java DB Apps Introduction Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="removeVillainTask6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IncreaseMinionsAge" />
+        <item itemvalue="Application.PrintAllMinionNames" />
+        <item itemvalue="Application.RemoveVillain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ChangeTownNamesCasing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.16163266" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6b137c13" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@53495091" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="183a9488-5866-4eef-b30c-8cd76b8d8019" name="Default Changelist" comment="" />
+      <created>1590679563699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590679563699</updated>
+      <workItem from="1590679565198" duration="43382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590679585964">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1590679585964" />
+    <state x="226" y="110" key="FileChooserDialogImpl" timestamp="1590682025969">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="226" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1590682025969" />
+    <state width="1254" height="278" key="GridCell.Tab.0.bottom" timestamp="1590774768580">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1254" height="278" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590774768580" />
+    <state width="1254" height="278" key="GridCell.Tab.0.center" timestamp="1590774768580">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1254" height="278" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590774768580" />
+    <state width="1254" height="278" key="GridCell.Tab.0.left" timestamp="1590774768580">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1254" height="278" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590774768580" />
+    <state width="1254" height="278" key="GridCell.Tab.0.right" timestamp="1590774768580">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1254" height="278" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590774768580" />
+    <state width="1254" height="278" key="GridCell.Tab.1.bottom" timestamp="1590774768580">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1254" height="278" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590774768580" />
+    <state width="1254" height="278" key="GridCell.Tab.1.center" timestamp="1590774768580">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1254" height="278" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1590774768580" />
+    <state width="1254" height="278" key="GridCell.Tab.1.left" timestamp="1590774768580">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1254" height="278" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1590774768580" />
+    <state width="1254" height="278" key="GridCell.Tab.1.right" timestamp="1590774768580">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1254" height="278" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1590774768580" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1590679598099">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1590679598099" />
+    <state x="368" y="0" key="SettingsEditor" timestamp="1590734980056">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1590734980056" />
+    <state width="200" height="441" key="SqlResolveConfigurable" timestamp="1590682080736">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="200" height="441" key="SqlResolveConfigurable/0.0.1366.738@0.0.1366.738" timestamp="1590682080736" />
+    <state x="576" y="266" width="326" height="234" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1590769328660">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="576" y="266" width="326" height="234" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.738@0.0.1366.738" timestamp="1590769328660" />
+    <state x="376" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1590729106171">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="376" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1590729106171" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>279</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/addMinionTask4/AddMinion.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/addMinionTask4/test.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/addMinionTask4/AddMinion.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/changeTownNamesCasingTask5/ChangeTownNamesCasing.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/changeTownNamesCasingTask5/ChangeTownNamesCasing.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/increaseMinionsAgeTask8/IncreaseMinionsAge.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
