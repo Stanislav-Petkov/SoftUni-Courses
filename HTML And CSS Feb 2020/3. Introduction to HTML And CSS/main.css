@@ -1,0 +1,81 @@
+h3 {
+    color: #000 !important;
+}
+h1 {
+    color: yellow;
+}
+h2 {
+    background-color: #000;
+    color: white;
+    font: 16px/1.5 Verdana, sans-serif;
+    text-align: center;
+}
+
+p:first-of-type {
+   margin-top: 5px;
+   margin-bottom: 10px;
+}
+
+#special-blue {
+   color: darkblue;
+   background-color: lightblue;
+   text-align: center;
+   text-decoration: underline;
+   text-transform: capitalize;
+}
+
+h1 {
+   color: red;
+}
+
+h1.title-headings {
+   color: darkcyan;
+   text-align: center;
+   text-decoration: underline;
+   font-size: 48px;
+}
+
+.title-headings.mobile {
+    font-size: 22px;
+}
+
+h1 {
+    color: blue;
+}
+
+a:first-of-type:hover {
+   color: red;
+   text-decoration: none;
+}
+
+.ytb:hover{
+   color:darkseagreen;
+   text-decoration: none;
+}
+
+body {
+    /* background-image: url('./images/jeep.jpg'); */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.special-font{
+    font-family: 'Georgia';
+    font-size: 21px;
+    font-style: italic;
+    border: 1px solid #000;
+    margin-top: 100px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    margin-left: 10px;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}

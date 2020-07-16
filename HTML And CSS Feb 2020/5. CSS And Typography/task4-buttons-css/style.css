@@ -1,0 +1,39 @@
+/* @import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"); */
+
+body{
+    background-color: #ebebeb;
+}
+
+button, a {
+    outline: none;
+    cursor: pointer;
+}
+
+a.button,
+button {
+    padding: 10px;
+    color: #333333;
+    border: 2px solid #333333;
+    border-radius: 20px;
+    background-color: #fbfbfb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+a.button.hover:hover,
+button.hover:hover {
+    border-color: #006600;
+    color: #006600;
+}
+
+a.button.fill,
+button.fill {
+    color: #fbfbfb;
+    background-color: #333333;
+}
+
+a.button.fill.hover:hover,
+button.fill.hover:hover {
+    background-color: #006600;
+    color: #fbfbfb;
+}

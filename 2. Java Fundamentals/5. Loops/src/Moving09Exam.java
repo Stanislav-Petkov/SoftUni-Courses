@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+//import java.util.Scanner;
+//
+public class Moving09Exam {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int width = Integer.parseInt(scanner.nextLine());
+        int length = Integer.parseInt(scanner.nextLine());
+        int height = Integer.parseInt(scanner.nextLine());
+        int volume = width * length * height;
+        String input = scanner.nextLine();
+        while (!input.equals("Done")) {
+            int box = Integer.parseInt(input);
+            volume = volume - box;
+            if (volume < 0) {
+                System.out.printf("No more free space %d needed space", Math.abs(volume));
+            }
+            input = scanner.nextLine();
+        }
+        if (volume >= 0) {
+            System.out.printf("%d cubic meters left", volume);
+        }
+    }
+}

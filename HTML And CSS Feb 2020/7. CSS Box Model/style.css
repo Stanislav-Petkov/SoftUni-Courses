@@ -1,0 +1,49 @@
+nav {
+    background-color: #e4d1d1;
+    border-radius: 5px;
+    padding: 1px;
+    min-width: 350px;    
+}
+
+li{
+    display: inline-block;
+}
+
+a { 
+    text-decoration: none;
+    font-family: Helvetica;
+    text-transform: uppercase;
+    color: black;
+    padding: 5px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.par {
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}
+
+
+
+.second ul {
+    background-color: #f0b27a;
+    border-radius: 10px;
+    padding: 10px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.second li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.second li {
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+}

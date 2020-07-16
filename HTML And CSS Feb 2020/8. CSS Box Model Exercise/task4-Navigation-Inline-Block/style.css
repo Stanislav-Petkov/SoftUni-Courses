@@ -1,0 +1,35 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    margin: 1em 4em;
+}
+
+header div, header nav {
+    display: inline-block;
+}
+
+header nav {
+    margin-left: 1em;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 0.5em;
+}
+
+header nav ul li a {
+    color: #009900;
+    text-decoration: none;
+}
+
+header hr {
+    height: 1px;
+    border: none;
+    background: black;
+}
+
+main h3 {
+    font-family: Georgia, serif;
+}

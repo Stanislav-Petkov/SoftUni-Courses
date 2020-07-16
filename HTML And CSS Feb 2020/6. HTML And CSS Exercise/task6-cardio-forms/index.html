@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Customer Details</legend>
+
+            <div class="form-element">
+                <label>
+                    First Name
+                    <input type="text" placeholder="George" autofocus>
+                </label>
+            </div>
+
+            <div class="form-element">
+                <label>
+                    Last Name
+                    <input type="text" placeholder="Devis">
+                </label>
+            </div>
+
+            <div class="form-element">
+                <label>
+                    Male
+                    <input name="gender" type="radio">
+                </label>
+                <label>
+                    Female
+                    <input name="gender" type="radio">
+                </label>
+                <label>
+                    Other
+                    <input name="gender" type="radio">
+                </label>
+            </div>
+
+            <div class="form-element">
+                <span>Preferred contact method:</span> 
+                <label>
+                    Email
+                    <input type="radio" name="contact-method">
+                </label>
+                <label>
+                    Phone
+                    <input type="radio" name="contact-method">
+                </label>
+            </div>
+
+            <div class="form-element">
+                <lablel>
+                    Email
+                    <input type="email" placeholder="your@email.com">
+                </lablel>
+            </div>
+              
+            <div class="form-element">
+                <label>
+                    Phone
+                    <input type="tel" placeholder="+359885236225">
+                </label>
+            </div>
+
+            <div class="form-element">
+                <label>
+                    Towns
+                    <select name="cities">
+                        <option value="varna">Varna</option>
+                        <option value="plovdiv">Plovdiv</option>
+                        <option value="burgas">Burgas</option>
+                        <option value="sofia">Sofia</option>
+                        <option value="pleven">Pleven</option>
+                    </select>
+                </label>
+            </div>
+
+            <div class="form-element">
+                <label>
+                    <input type="number" min="18" max="70">
+                </label>
+            </div>
+
+                <div class="form-element">
+                    <label>
+                        Programming language
+                        <input list="programming-languages">
+                        <datalist id="programming-languages">
+                            <option value="Java">
+                            <option value="Php">
+                            <option value="C#">
+                            <option value="JavaScript">
+                            <option value="Python">
+                            <option value="Ruby">
+                            <option value="Other">
+                        </datalist>
+                    </label>
+                </div>
+
+                <div class="form-element">
+                    <label>
+                        <textarea cols="20" rows="5" placeholder="More information..."></textarea>
+                    </label>
+                </div>
+
+                <div class="form-element">
+                    <label>
+                        <input type="checkbox" checked>
+                        I agree the Terms and Conditions
+                    </label>
+                </div>
+
+                <div class="form-element">
+                    <label>
+                        <input type="submit" value="Send">
+                    </label>
+                </div>
+        </fieldset>
+    </form>
+</body>
+</html>

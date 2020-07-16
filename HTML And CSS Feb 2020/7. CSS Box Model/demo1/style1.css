@@ -1,0 +1,45 @@
+/* div {
+    background-color: pink;
+    border: 1px solid black;
+    padding: 5px 10px 15px 20px;
+    margin: 5px 10px 15px 1.5em;
+} */
+
+button {
+    color: white;
+    background-color: blue;
+    letter-spacing: 2px;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+div {
+    display: inline-block;
+    width: 45%;
+}
+div:nth-child(1) {
+    background-color: red;
+}
+
+div:nth-child(2) {
+    background-color: green;
+}
+
+div p {
+    background-color: blue;
+}
+
+h3.orange {
+    background-color: orange;
+}
+
+div > p {
+    background-color: orangered;
+}
+
